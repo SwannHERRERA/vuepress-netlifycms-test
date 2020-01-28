@@ -18,5 +18,8 @@
     "bugs": {
         "url": "https://github.com/SwannHERRERA/vuepress-netlifycms-test/issues"
     },
-    "homepage": "https://github.com/your-username/Vuepress-project#readme"
+    "homepage": "https://github.com/SwannHERRERA/vuepress-netlifycms-test#readme",
+    "devDependencies": {
+        "vuepress": "^1.2.0"
+    }
 }
